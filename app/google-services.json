@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349719343486",
+    "firebase_url": "https://findcafe-d5b8c.firebaseio.com",
+    "project_id": "findcafe-d5b8c",
+    "storage_bucket": "findcafe-d5b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349719343486:android:99fc303cde5cb3d36e432f",
+        "android_client_info": {
+          "package_name": "com.exampleb.findcafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349719343486-8tnfsameaiboo0cllhtgtm8om7s1n9ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.exampleb.findcafe",
+            "certificate_hash": "1e2e2ab4389b2ff38e1a3e0ddc419cae4b274df1"
+          }
+        },
+        {
+          "client_id": "349719343486-p7g4j1v2nh93556ljek893hkkqpq6gpf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7BsBnfbEMrvIHRFsPY1LLsVoPMimjRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349719343486-p7g4j1v2nh93556ljek893hkkqpq6gpf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
